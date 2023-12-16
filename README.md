@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **my New Projects**
 
-- 💬 Ask me about **ASP.NET MVC | ASP.NET Core | .Net Core | Azure**
+- 💬 Ask me about **ReactJs | NodeJs | ASP.NET MVC | ASP.NET Core | .Net Core | Azure | MicroServices | C# | Jquery**
 
 - 📫 How to reach me **vishwas.kapte@outlook.com**
   

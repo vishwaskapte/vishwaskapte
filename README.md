@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **vishwas.kapte@outlook.com**
   
-- My Web resume -  https://vishwaskapte.github.io/MyReactResume/
+- My Web resume -
+  - https://vishwaskapte.github.io/MyReactResume/
+  - https://vishwaskapte.netlify.app/
 
 
 <h3 align="left">Connect with me:</h3>

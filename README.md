@@ -20,13 +20,12 @@
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 ## My Portfolio
 https://vishwaskapte.github.io/MyReactResume/
 https://vishwaskapte.netlify.app/
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -117,16 +116,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=vishwaskapte&&style=flat-square" align="center" />
-</div>  
-  
-
 <br/>  
 
 <div align="center">
@@ -139,8 +128,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

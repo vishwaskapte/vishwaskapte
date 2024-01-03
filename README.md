@@ -21,8 +21,8 @@
 <br/>  
 
 ## My Portfolio
-https://vishwaskapte.github.io/MyReactResume/
-https://vishwaskapte.netlify.app/
+- https://vishwaskapte.github.io/MyReactResume/
+- https://vishwaskapte.netlify.app/
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

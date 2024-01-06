@@ -39,9 +39,9 @@
 <p><a href="https://www.buymeacoffee.com/vishwasvkapte"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vishwasvkapte" /></a></p>
 <br><br><br><br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaskapte&show_icons=true&locale=en&layout=compact" alt="vishwaskapte" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaskapte&show_icons=true&locale=en&layout=compact" alt="vishwaskapte" width="400px" height="150px"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaskapte&show_icons=true&locale=en" alt="vishwaskapte" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaskapte&show_icons=true&locale=en" alt="vishwaskapte" width="400px" height="150px"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaskapte&" alt="vishwaskapte" width="400px" height="150px"/></p>
 </div>

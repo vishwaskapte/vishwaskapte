@@ -43,8 +43,8 @@
 <br><br><br><br>
 <table border="0"> 
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaskapte&show_icons=true&locale=en&layout=compact" alt="vishwaskapte" width="500px" height="250px"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaskapte&show_icons=true&locale=en" alt="vishwaskapte" width="500px" height="250px"/></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaskapte&" alt="vishwaskapte" width="500px" height="250px"/></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaskapte&show_icons=true&locale=en&layout=compact" alt="vishwaskapte"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaskapte&show_icons=true&locale=en" alt="vishwaskapte" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaskapte&" alt="vishwaskapte"/></td>
   </tr>
 </table>

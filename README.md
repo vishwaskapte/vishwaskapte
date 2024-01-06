@@ -38,10 +38,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vishwasvkapte"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vishwasvkapte" /></a></p>
 <br><br><br><br>
-<table> 
+<table border="0"> 
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaskapte&show_icons=true&locale=en&layout=compact" alt="vishwaskapte" width="400px" height="150px"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaskapte&show_icons=true&locale=en" alt="vishwaskapte" width="400px" height="150px"/></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaskapte&" alt="vishwaskapte" width="400px" height="150px"/></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaskapte&show_icons=true&locale=en&layout=compact" alt="vishwaskapte" width="500px" height="150px"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaskapte&show_icons=true&locale=en" alt="vishwaskapte" width="500px" height="150px"/></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaskapte&" alt="vishwaskapte" width="500px" height="150px"/></td>
   </tr>
 </table>
